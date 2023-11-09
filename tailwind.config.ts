@@ -8,11 +8,11 @@ const config: Config = {
   ],
   safelist: [
     "to-gray-700",
-    "to-gree-700",
+    "to-green-700",
     "to-blue-700",
-    "to-gray-400",
-    "to-gree-400",
-    "to-blue-400",
+    "from-gray-400",
+    "from-green-400",
+    "from-blue-400",
   ],
   theme: {
     extend: {
